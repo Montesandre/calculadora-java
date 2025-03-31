@@ -1,6 +1,6 @@
 # 🧮 Calculadora Simples em Java
 
-**Olá!** Esta é uma calculadora simples desenvolvida em Java para ajudar em operações matemáticas básicas do dia a dia.
+**Olá,pessoal!** Esta é uma calculadora simples desenvolvida em Java para ajudar em operações matemáticas básicas do dia a dia.
 
 ## ✨ Funcionalidades
 
